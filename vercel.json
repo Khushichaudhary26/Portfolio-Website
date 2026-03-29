@@ -1,4 +1,5 @@
 {
+  "name": "khushis-portfolio",
   "rewrites": [
     {
       "source": "/(.*)",
